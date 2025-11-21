@@ -75,7 +75,7 @@ void main() {
 
 
 }
-
+```
 ## 💻 OUTPUT
 
 <img width="908" height="476" alt="Screenshot 2025-10-22 152947" src="https://github.com/user-attachments/assets/a92c70df-384f-43f6-a43d-0f177584fc9b" />

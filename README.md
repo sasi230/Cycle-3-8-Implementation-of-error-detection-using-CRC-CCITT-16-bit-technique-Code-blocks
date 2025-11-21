@@ -78,7 +78,9 @@ void main() {
 
 ## 💻 OUTPUT
 
-<img width="724" height="331" alt="image" src="https://github.com/user-attachments/assets/1f5d9e2b-ad28-4b27-8d96-a50fc26f9752" />
+<img width="908" height="476" alt="Screenshot 2025-10-22 152947" src="https://github.com/user-attachments/assets/a92c70df-384f-43f6-a43d-0f177584fc9b" />
+# RESULT:
+Thus the error detection using CRC-CCITT[16 bit] technique is implemented and the output is obtained and verified successfully.
 
 
 
